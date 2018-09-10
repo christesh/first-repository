@@ -1,2 +1,2 @@
 # first-repository
-First repository for find how it work!!!
+First repository to know how it work!!!
